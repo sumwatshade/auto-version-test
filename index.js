@@ -1,3 +1,4 @@
 module.exports = {
-    version: require("./package.json").version
+    version: require("./package.json").version,
+    hello: "test"
 }
