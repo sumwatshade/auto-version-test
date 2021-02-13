@@ -1,3 +1,15 @@
+# v3.0.0 (Sat Feb 13 2021)
+
+#### 💥 Breaking Change
+
+- feat(version): change 1 [#9](https://github.com/lshadler/auto-version-test/pull/9) ([@lshadler](https://github.com/lshadler))
+
+#### Authors: 1
+
+- Lucas Shadler ([@lshadler](https://github.com/lshadler))
+
+---
+
 # v2.0.0 (Sat Feb 13 2021)
 
 #### 💥 Breaking Change
