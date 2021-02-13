@@ -3,7 +3,7 @@
     "conventional-commits",
     "released",
     "first-time-contributor",
-    "all-contributors",
+    "git-tag"
   ],
   "labels": [
     { "releaseType": "major", "name": "auto-major", overwrite: true },
