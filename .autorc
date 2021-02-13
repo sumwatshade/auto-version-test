@@ -1,0 +1,16 @@
+{
+  "plugins": [
+    "conventional-commits",
+    "npm",
+    "released",
+    "first-time-contributor",
+    "all-contributors",
+  ],
+  "labels": [
+    { "releaseType": "major", "name": "auto-major", overwrite: true },
+    { "releaseType": "minor", "name": "auto-minor", overwrite: true },
+    { "releaseType": "patch", "name": "auto-patch", overwrite: true }
+  ],
+  "prereleaseBranches": ["next", "alpha", "beta"],
+  "name": "lshadler"
+}
