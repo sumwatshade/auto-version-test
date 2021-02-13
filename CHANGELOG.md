@@ -1,3 +1,14 @@
+# v4.0.0 (Sat Feb 13 2021)
+
+#### 🐛 Bug Fix
+
+
+#### Authors: 1
+
+- Lucas Shadler ([@lshadler](https://github.com/lshadler))
+
+---
+
 # v3.0.0 (Sat Feb 13 2021)
 
 #### 💥 Breaking Change
