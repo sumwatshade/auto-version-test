@@ -8,7 +8,7 @@
   "author": "Lucas Shadler <lucas_shadler@intuit.com>",
   "license": "MIT",
   "scripts": {
-    "release": "auto shipit"
+    "release": "auto shipit -vv"
   },
   "devDependencies": {
     "@auto-it/all-contributors": "10.16.5",
