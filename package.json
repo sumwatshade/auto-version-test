@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
+  "private": false,
   "repository": "git@github.com:lshadler/auto-version-test.git",
   "author": "Lucas Shadler <lucas_shadler@intuit.com>",
   "license": "MIT",
