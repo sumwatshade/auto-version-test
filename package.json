@@ -6,6 +6,9 @@
   "repository": "git@github.com:lshadler/auto-version-test.git",
   "author": "Lucas Shadler <lucas_shadler@intuit.com>",
   "license": "MIT",
+  "scripts": {
+    "release": "auto shipit"
+  },
   "devDependencies": {
     "@auto-it/all-contributors": "10.16.5",
     "@auto-it/conventional-commits": "10.16.5",
