@@ -5,6 +5,7 @@
     "first-time-contributor",
     "git-tag"
   ],
+  "versionBranches": "major-",
   "labels": [
     { "releaseType": "major", "name": "auto-major", overwrite: true },
     { "releaseType": "minor", "name": "auto-minor", overwrite: true },
