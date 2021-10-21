@@ -1,3 +1,20 @@
+# v4.0.1 (Thu Oct 21 2021)
+
+#### 🐛 Bug Fix
+
+- fix: add version branches ([@sumwatshade](https://github.com/sumwatshade))
+
+#### ⚠️ Pushed to `main`
+
+- chore: test ([@sumwatshade](https://github.com/sumwatshade))
+- chore: do a thing ([@sumwatshade](https://github.com/sumwatshade))
+
+#### Authors: 1
+
+- Lucas Shadler ([@sumwatshade](https://github.com/sumwatshade))
+
+---
+
 # v4.0.0 (Sat Feb 13 2021)
 
 #### 🐛 Bug Fix
